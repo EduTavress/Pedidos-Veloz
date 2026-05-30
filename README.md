@@ -1,25 +1,5 @@
 # Aplicação Distribuída com Microsserviços e Kubernetes
 
-## Arquitetura
-
-Esta é uma aplicação de exemplo baseada em microsserviços, contendo:
-
-- **API Gateway**: Porta de entrada única para os microsserviços
-- **Product Service**: Gerenciamento de produtos
-- **Order Service**: Gerenciamento de pedidos
-- **Payment Service**: Processamento de pagamentos
-- **PostgreSQL**: Banco de dados relacional para persistência de dados
-
-Tecnologias utilizadas:
-- Node.js + Express
-- Docker
-- Kubernetes
-- PostgreSQL (banco de dados)
-- Prometheus (monitoramento)
-- Grafana (visualização de métricas)
-- Jaeger (tracing distribuído)
-- GitHub Actions (CI/CD)
-
 ## Desenvolvimento Local
 
 ### Pré-requisitos
